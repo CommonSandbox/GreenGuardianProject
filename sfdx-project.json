@@ -1,0 +1,22 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "GreenGuardian",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": "Managed App used for CampApex Org Challenges"
+    }
+  ],
+  "name": "GreenGuardian",
+  "namespace": "CAMPX",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "GreenGuardian": "0Ho8a000000PB4GCAW",
+    "GreenGuardian@0.1.0-1": "04t8a000001FalvAAC",
+    "GreenGuardian@0.1.0-2": "04t8a000001Fam0AAC",
+    "GreenGuardian@0.1.0-3": "04t8a000001Fam5AAC"
+  }
+}
