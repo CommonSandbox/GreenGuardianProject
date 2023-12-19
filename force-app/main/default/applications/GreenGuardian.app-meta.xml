@@ -13,12 +13,12 @@
         <headerColor>#306105</headerColor>
         <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
     </brand>
-    <description>Camp Apex</description>
+    <description>CampApex.org&apos;s Green Guardian app</description>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
-    <label>GreenGuardian</label>
+    <label>Green Guardian</label>
     <navType>Standard</navType>
     <tabs>Garden__c</tabs>
     <tabs>Plant__c</tabs>

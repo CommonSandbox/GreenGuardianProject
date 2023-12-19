@@ -17,9 +17,9 @@
                 <label>Full Sun</label>
             </value>
             <value>
-                <fullName>Part Sun</fullName>
+                <fullName>Partial Sun</fullName>
                 <default>false</default>
-                <label>Part Sun</label>
+                <label>Partial Sun</label>
             </value>
             <value>
                 <fullName>Full Shade</fullName>
@@ -27,9 +27,9 @@
                 <label>Full Shade</label>
             </value>
             <value>
-                <fullName>Part Shade</fullName>
+                <fullName>Partial Shade</fullName>
                 <default>false</default>
-                <label>Part Shade</label>
+                <label>Partial Shade</label>
             </value>
         </valueSetDefinition>
     </valueSet>

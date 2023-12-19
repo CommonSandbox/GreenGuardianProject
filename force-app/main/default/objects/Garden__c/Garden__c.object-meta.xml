@@ -146,11 +146,10 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>Garden</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>The location in which plants reside</description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
-    <enableHistory>false</enableHistory>
+    <enableHistory>true</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
     <enableSearch>true</enableSearch>
@@ -160,6 +159,7 @@
     <label>Garden</label>
     <nameField>
         <label>Garden Name</label>
+        <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
     <pluralLabel>Gardens</pluralLabel>

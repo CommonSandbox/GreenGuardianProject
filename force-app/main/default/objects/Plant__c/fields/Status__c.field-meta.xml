@@ -21,9 +21,9 @@
                 <label>Dormant</label>
             </value>
             <value>
-                <fullName>Diseased</fullName>
+                <fullName>Sick</fullName>
                 <default>false</default>
-                <label>Diseased</label>
+                <label>Sick</label>
             </value>
             <value>
                 <fullName>Wilting</fullName>
@@ -31,9 +31,9 @@
                 <label>Wilting</label>
             </value>
             <value>
-                <fullName>Dead</fullName>
+                <fullName>Deceased</fullName>
                 <default>false</default>
-                <label>Dead</label>
+                <label>Deceased</label>
             </value>
         </valueSetDefinition>
     </valueSet>

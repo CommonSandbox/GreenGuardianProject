@@ -4,6 +4,7 @@
     <externalId>false</externalId>
     <label>Status</label>
     <required>false</required>
+    <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
@@ -19,6 +20,16 @@
                 <fullName>Operational</fullName>
                 <default>false</default>
                 <label>Operational</label>
+            </value>
+            <value>
+                <fullName>Temporary Closure</fullName>
+                <default>false</default>
+                <label>Temporary Closure</label>
+            </value>
+            <value>
+                <fullName>Over Capacity</fullName>
+                <default>false</default>
+                <label>Over Capacity</label>
             </value>
             <value>
                 <fullName>Permanent Closure</fullName>
